@@ -44,8 +44,9 @@ namespace Produtinho {
 
             Console.WriteLine();
             Console.WriteLine("Dados do produto: " + p);
+            Console.WriteLine("Git e github é muito brabo");
             Console.WriteLine("Salve Salve família");
-            Console.WriteLine("Eeeeeeeeeeeeeeeeeeeeeee");
+            
         }
     }
 }
