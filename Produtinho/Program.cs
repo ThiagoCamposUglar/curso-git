@@ -44,6 +44,7 @@ namespace Produtinho {
 
             Console.WriteLine();
             Console.WriteLine("Dados do produto: " + p);
+            Console.WriteLine("Salve Salve família");
         }
     }
 }
